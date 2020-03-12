@@ -57,7 +57,7 @@ pluggy==0.9.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 -e git+https://github.com/purduesigbots/pros-cli3.git@accd8dac94fa5c7a789d6eed875df2d29e572757#egg=pros_cli_v5
-psutil==5.6.3
+psutil==5.6.6
 ptyprocess==0.6.0
 pycairo==1.18.1
 pycodestyle==2.5.0
